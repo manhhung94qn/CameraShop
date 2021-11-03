@@ -31,7 +31,7 @@
     "passport-google-oauth20": "^2.0.0",
     "passport-local": "^1.0.0",
     "v-owl-carousel": "^1.0.8",
-    "validator": "^12.2.0",
+    "validator": "^13.7.0",
     "vee-validate": "^3.2.5"
   },
   "devDependencies": {
